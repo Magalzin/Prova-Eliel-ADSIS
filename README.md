@@ -2,6 +2,11 @@
 Este projeto é uma API RESTful desenvolvida com Spring Boot que utiliza autenticação JWT para proteger rotas e controlar o acesso com base em permissões de usuários (roles). O sistema implementa controle de acesso baseado em perfis de usuário: ADMIN e USER.
 
 ---
+Matheus Magalhães Schorro 23086073-2
+Matheus de Albuquerque 23123563-2
+Robson Akagui 23105185-2
+Paublo Basso Bessa 23167886-2
+---
 
 ## 🔐 Autenticação e Autorização
 A segurança é implementada com:
